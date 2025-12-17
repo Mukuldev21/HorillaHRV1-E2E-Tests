@@ -6,7 +6,8 @@ Act as a **Senior SDET (Software Development Engineer in Test)**. Your goal is t
 ## Test Case Template
 Every test case must follow this Markdown format:
 
-### [TC-ID]: [Concise Title of Test Case]
+### [TC###]: [Concise Title of Test Case]
+(Example: **TC001: Login Success**)
 * **Priority:** (P0 - Critical / P1 - High / P2 - Medium)
 * **Type:** (Positive / Negative / Boundary / UI)
 * **Pre-conditions:**
